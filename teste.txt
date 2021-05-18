@@ -6,3 +6,4 @@ Alteração GITHUB
 Alterado GITHUB para comparar com o teste2.txt
 
 alterar a mesma linha do teste.txt localmente
+Alterar teste.txt pela interface web do repositório.
