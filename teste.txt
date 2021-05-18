@@ -9,6 +9,7 @@ alterar a mesma linha do teste.txt localmente
 Alterar teste.txt pela interface web do repositório.
 
 
+<<<<<<< HEAD
 
 
 Alterar teste.txt pela interface web, alterar uma das linha adjacentes do teste.txt localmente, há conflito? Se sim resolver. Fazer push
@@ -17,4 +18,14 @@ Alterar teste.txt pela interface web, alterar uma das linha adjacentes do teste.
 
 
 
+=======
+
+
+
+Alterar teste.txt pela interface web, alterar uma das linha adjacentes do teste.txt localmente, há conflito? Se sim resolver. Fazer push
+
+Alterar teste.txt pela interface web, alterar uma das linha adjacentes do teste.txt localmente, há conflito? Se sim resolver. Fazer push
+
+
+>>>>>>> 0ed4a93b1a2c93c0d261fbd41ed5794f4b4beb5c
 Alterar teste.txt pela interface web, alterar uma linha diferente localmente, há conflito? Se sim resolver. Fazer push
